@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "catalogCount": 668,
+  "publishedAt": "2026-06-16",
+  "minimumAppVersion": "1.0.0",
+  "forceUpdate": false,
+  "dataUrl": "https://raw.githubusercontent.com/mcknight2323-cell/tomica-catalog-data/main/data.json",
+  "note": "Initial cloud JSON catalog"
+}
