@@ -5,5 +5,5 @@
   "minimumAppVersion": "1.0.0",
   "forceUpdate": false,
   "dataUrl": "https://raw.githubusercontent.com/mcknight2323-cell/tomica-catalog-data/main/data.json",
-  "note": "Updated Tomica cloud catalog count to 686"
+  "note": "Cloud Tomica catalog count updated to 686"
 }
